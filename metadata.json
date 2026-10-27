@@ -1,0 +1,6 @@
+{
+  "name": "DROPFIND - Shop by Video Code",
+  "description": "Discover and shop featured products from Reels, Shorts, and TikToks by entering their 6-digit video code, or publish new drops with instant link metadata extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
